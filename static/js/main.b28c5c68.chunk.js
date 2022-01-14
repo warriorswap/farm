@@ -4326,7 +4326,7 @@
                                 children: [
                                     Object(C.jsxs)("div", {
                                         children: [
-                                            Object(C.jsx)(d.t, { as: "h1", size: "xxl", mb: "16px", children: t(738, "Syrup Pool on VICTORY") }),
+                                            Object(C.jsx)(d.t, { as: "h1", size: "xxl", mb: "16px", children: t(738, "Battlefield of VICTORY") }),
                                             Object(C.jsxs)("ul", {
                                                 children: [
                                                     Object(C.jsx)("li", { children: t(580, "Stake VICTORY to earn new tokens.") }),
