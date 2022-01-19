@@ -441,7 +441,7 @@
                             Object(V.jsxs)(be, {
                                 children: [
                                     Object(V.jsxs)(be, {
-                                        children: [Object(V.jsx)(g.t, { as: "a", href: "https://babyfjb.com", children: [Object(V.jsx)("img", { src: "https://i.imgur.com/5uqa5Zu.gif", alt: "Banner Icon", width: 417, height: 90 })] })],
+                                        children: [Object(V.jsx)(g.t, { as: "a", href: "https://babyfjb.com", children: [Object(V.jsx)("img", { src: "https://i.imgur.com/5uqa5Zu.gif", alt: "Banner Icon", width: 728, height: 90 })] })],
                                     }),
 
                                     Object(V.jsx)(g.t, { as: "h1", size: "xl", mb: "24px", color: "secondary", children: e(576, "Warrior Swap") }),
