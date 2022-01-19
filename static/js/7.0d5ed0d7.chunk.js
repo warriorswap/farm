@@ -440,9 +440,6 @@
                         children: [
                             Object(V.jsxs)(be, {
                                 children: [
-                                    Object(V.jsxs)(be, {
-                                        children: [Object(V.jsx)("img", { src: "https://poocoin.app/images/promotions/shieldnetwork.gif", alt: "title", width: 417, height: 90 })],
-                                    }),
                                     Object(V.jsx)(g.t, { as: "h1", size: "xl", mb: "24px", color: "secondary", children: e(576, "Warrior Swap") }),
                                     Object(V.jsx)(g.L, { children: e(578, "The #1 Decentralized Exchange for Warriors.") }),
                                 ],
