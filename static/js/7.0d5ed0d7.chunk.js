@@ -399,7 +399,7 @@
                 be = h.e.div(
                     O ||
                         (O = Object(x.a)([
-                            "\n  align-items: center;\n  // background-image: url('/images/pan-bg2.svg'), url('/images/pan-bg.svg');\n  background-repeat: no-repeat;\n  background-position: left top, right top;\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  margin: auto;\n  margin-bottom: 32px;\n  padding-top: 136px;\n  text-align: center;\n\n  ",
+                            "\n  align-items: center;\n  // background-image: url('/images/pan-bg2.svg'), url('/images/pan-bg.svg');\n  background-repeat: no-repeat;\n  background-position: left top, right top;\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  margin: auto;\n  margin-bottom: 32px;\n  padding-top: 65px;\n  text-align: center;\n\n  ",
                             " {\n    background-image: url('/images/pan-bg2.svg'), url('/images/pan-bg.svg');\n    background-position: left center, right center;\n    height: 165px;\n    padding-top: 0;\n  }\n",
                         ])),
                     function (e) {
@@ -439,7 +439,7 @@
                     return Object(V.jsxs)(k.a, {
                         children: [
                             Object(V.jsxs)(be, {
-                                children: [Object(V.jsx)(g.t, { as: "a", href: "", target: "_blank", rel: "noreferrer noopener", children: [Object(V.jsx)("img", { src: "https://i.imgur.com/pxXWZ6h.png", alt: "Banner Icon", width: 1092, height: 135 })] })],
+                                children: [Object(V.jsx)(g.t, { as: "a", href: "", target: "_blank", rel: "noreferrer noopener", children: [Object(V.jsx)("img", { src: "https://i.imgur.com/TUv2rhs.png", alt: "Banner Icon", width: 1092, height: 135 })] })],
                             }),
                                     Object(V.jsxs)(be, {
                                         children: [Object(V.jsx)(g.t, { as: "h1", size: "xl", mb: "24px", color: "secondary", children: e(576, "Warrior Swap") }),
