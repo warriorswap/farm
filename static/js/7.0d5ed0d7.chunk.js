@@ -399,7 +399,7 @@
                 be = h.e.div(
                     O ||
                         (O = Object(x.a)([
-                            "\n  align-items: center;\n  // background-image: url('/images/pan-bg2.svg'), url('/images/pan-bg.svg');\n  background-repeat: no-repeat;\n  background-position: left top, right top;\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  margin: auto;\n  margin-bottom: 32px;\n  padding-top: 65px;\n  text-align: center;\n\n  ",
+                            "\n  align-items: center;\n  // background-image: url('/images/pan-bg2.svg'), url('/images/pan-bg.svg');\n  background-repeat: no-repeat;\n  background-position: left top, right top;\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  margin: auto;\n  margin-bottom: 32px;\n  padding-top: 35px;\n  text-align: center;\n\n  ",
                             " {\n    background-image: url('/images/pan-bg2.svg'), url('/images/pan-bg.svg');\n    background-position: left center, right center;\n    height: 165px;\n    padding-top: 0;\n  }\n",
                         ])),
                     function (e) {
